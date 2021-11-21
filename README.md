@@ -1,2 +1,2 @@
 # database_MySQL
-A MySQL database for BCI2023 DATABASE SYSTEMS project.
+A MySQL database for Database Systems project.
