@@ -16,11 +16,11 @@ classMode VARCHAR(10),
 classType VARCHAR(10),
 courseID VARCHAR(10),
 FOREIGN KEY (courseID) REFERENCES COURSE (courseID));
+
 INSERT INTO COURSE
 VALUES('CRS001','BUM1433','Mathematics','Pekan','3.1.2');
 INSERT INTO COURSE
 VALUES('CRS002','BCI2023','Database','Pekan','1.2.1');
-
 INSERT INTO COURSE
 VALUES('CRS003','BCI1023','Programming Techniques','Pekan','2.2.2');
 INSERT INTO COURSE
